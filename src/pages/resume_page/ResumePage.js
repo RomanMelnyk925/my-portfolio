@@ -10,7 +10,8 @@ import React, { useState, useEffect } from "react";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://raw.githubusercontent.com/MD-MAFUJUL-HASAN/Personal-Portfolio/main/src/assets/MD_MAFUJUL_HASAN.pdf";
+  "https://raw.githubusercontent.com/RomanMelnyk925/my-portfolio/2d1255c0e351a95d673b2c4c6b8adbe5531ddd68/src/assets/resume.pdf";
+  
 
 function Resume() {
   const [width, setWidth] = useState(1200);
@@ -36,7 +37,7 @@ function Resume() {
             </div>
             <div fluid className="certificate-section" id="about">
               <div className="d-flex justify-content-center mt-4">
-                <Button variant="primary" href={pdf} target="_blank">
+                <Button variant="primary" href={resumeLink} target="_blank">
                   <AiOutlineDownload />
                   &nbsp;Download Resume
                 </Button>
@@ -47,7 +48,7 @@ function Resume() {
                 </Document>
               </div>
               <div className="d-flex justify-content-center">
-                <Button variant="primary" href={pdf} target="_blank">
+                <Button variant="primary" href={resumeLink} target="_blank">
                   <AiOutlineDownload />
                   &nbsp;Download Resume
                 </Button>

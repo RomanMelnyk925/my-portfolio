@@ -34,6 +34,16 @@ const About = () => {
                       in L'viv, Ukraine.
                 <br />
                 <br />
+                Motivated and experienced 
+                <b className="purple">
+                    {" "}
+                    Microsoft Office Add-ins  {" "}
+                  </b> 
+                  Developer with a passion for creating innovative solutions to enhance productivity and efficiency. 
+                  Seeking an opportunity to leverage technical expertise and creativity to develop cutting-edge add-ins for Microsoft Office applications.  &nbsp;
+                  
+                <br />
+                <br />
                 I provide advanced web solutions using  &nbsp;
                   <b className="purple">
                     {" "}

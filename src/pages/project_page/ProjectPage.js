@@ -56,7 +56,7 @@ export default function ProjectPage() {
                                 <div className="project--showcaseBtn">
                                   <a
                                     href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Web_Programming/tree/main/New-Year-Countdown"
+                                      "https://github.com/RomanMelnyk925/laravel-ecommerce"
                                     }
                                     target="_blank"
                                     rel="noreferrer"
@@ -118,13 +118,13 @@ export default function ProjectPage() {
                             >
                               <div className="projectContent">
                                 <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                                Laravel-Admin-Panel
+                                Pixer-Admin
                                 </h5>
                                 <img src={hd} alt={hd} />
                                 <div className="project--showcaseBtn">
                                   <a
                                     href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Shoppy_Ecommerce"
+                                      "https://github.com/RomanMelnyk925/pixer-admin"
                                     }
                                     target="_blank"
                                     rel="noreferrer"
@@ -148,7 +148,7 @@ export default function ProjectPage() {
                                     fontWeight: 600,
                                   }}
                                 >
-                                 Most Powerful & Comprehensive Bootstrap 5 HTML Laravel Admin Dashboard Template built for developers!
+                                 Most Powerful & Comprehensive Bootstrap 5 HTML React Admin Dashboard
                                 </p>
                               </h6>
                               <div
@@ -159,7 +159,7 @@ export default function ProjectPage() {
                                   fontWeight: 600,
                                 }}
                               >
-                                Laravel, HTML, JavaScript, CSS
+                                NextJS, ReactJS, HTML, JavaScript, CSS
                               </div>
                             </div>
                           </Fade>
@@ -183,7 +183,7 @@ export default function ProjectPage() {
                                 <div className="project--showcaseBtn">
                                   <a
                                     href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Online-Payroll-Management-System"
+                                      ""
                                     }
                                     target="_blank"
                                     rel="noreferrer"
@@ -304,7 +304,7 @@ export default function ProjectPage() {
                                 <div className="project--showcaseBtn">
                                   <a
                                     href={
-                                      "https://github.com/MD-MAFUJUL-HASAN/Personal-Portfolio"
+                                      "https://github.com/RomanMelnyk925/my-portfolio"
                                     }
                                     target="_blank"
                                     rel="noreferrer"
